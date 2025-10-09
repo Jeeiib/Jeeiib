@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est JB
+# 👋 Salut, moi c’est Jean-Baptiste
 
 🎓 Étudiant & alternant en **développement d’applications web & mobile**  
 💻 Passionné par le code propre, l’apprentissage continu et la création de projets concrets.
@@ -35,17 +35,10 @@ Je contribue au développement d’un **assistant vocal connecté aux CRM commer
 
 ---
 
-## 📊 Mes stats GitHub  
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objectifs
 - Devenir un développeur polyvalent **full stack**  
 - Créer des applications **modernes, utiles et maintenables**  
 - Partager mes projets et mon évolution ici sur GitHub 🚀  
 
 ---
+
