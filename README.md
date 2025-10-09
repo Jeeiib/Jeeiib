@@ -1,7 +1,6 @@
-# 👋 Salut, moi c’est JB
+# 👋 Salut, moi c’est Jean-Baptiste
 
 🎓 Étudiant & alternant en **développement d’applications web & mobile**  
-💻 Passionné par le code propre, l’apprentissage continu et la création de projets concrets.
 
 ---
 
