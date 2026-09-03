@@ -1,44 +1,45 @@
-# 👋 Salut, moi c’est Jean-Baptiste
+# Jean-Baptiste Renart
 
-🎓 Étudiant & alternant en **développement d’applications web & mobile**  
+Développeur full stack. Je développe Jay, un assistant commercial connecté aux CRM, et je livre des projets web en freelance sous JBR Development.
 
----
+## Jay
 
-## 🚀 Stack & apprentissages  
+[jay-assistant.fr](https://jay-assistant.fr)
 
-### 🔹 Langages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+Jay écrit dans le CRM à la place du commercial. Avant le rendez-vous, il envoie un briefing : historique du deal, dernières interactions, actualités de l'entreprise, style de communication de l'interlocuteur. Pendant, il enregistre la réunion en présentiel, rejoint la visioconférence, ou récupère une simple note vocale dictée entre deux rendez-vous, y compris depuis WhatsApp. Après, contacts, opportunités, notes et rendez-vous sont créés dans le CRM du client, une fois validés.
 
-### 🔹 Bases de données & Backend  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+Le produit ne m'appartient pas : j'en suis le développeur, seul sur la technique, aux côtés de son fondateur. Application mobile, application web, back-end, intégrations CRM et pipeline IA.
 
-### 🔹 Outils & Dev  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- Application mobile React Native (Expo), distribuée sur iOS et Android
+- Intégrations natives HubSpot, Salesforce, Pipedrive, Zoho, Microsoft Dynamics, Odoo, TeamLeader et Notion
+- Agendas et messagerie : Google Calendar, Microsoft Calendar, Gmail, Outlook, WhatsApp
+- Transcription, extraction des actions commerciales et rédaction des comptes rendus par LLM
+- Back-end Supabase : Postgres, fonctions edge, RLS, tâches planifiées
 
----
+## JBR Development
 
-## 🏢 Mon alternance
-Je contribue au développement d’un **assistant vocal connecté aux CRM commerciaux** avec :  
-- Gestion d’événements, contacts et opportunités  
-- Intégration **OCR** pour la lecture de cartes de visite  
+[jbrdevelopment.fr](https://jbrdevelopment.fr)
 
----
+Mon activité freelance : sites et outils métier pour des clients. Site et système de gestion pour un cabinet d'expertise comptable, site vitrine pour une collection privée. Next.js, TypeScript, Supabase, Tailwind, déploiement Vercel.
 
-## 🎯 Objectifs
-- Devenir un développeur polyvalent **full stack**  
-- Créer des applications **modernes, utiles et maintenables**  
-- Partager mes projets et mon évolution ici sur GitHub 🚀  
+## Stack
 
----
+**Langages** TypeScript, JavaScript, Java, SQL
 
+**Front** React, React Native (Expo), Next.js, Vue, Tailwind
+
+**Back** Node.js, Deno, Spring Boot, Supabase (Postgres, fonctions edge, RLS), API REST
+
+**Données** PostgreSQL, MySQL
+
+**IA** intégration de LLM (Claude, Mistral), RAG, évaluations automatisées des sorties de modèles, prompt engineering, transcription et diarisation audio, modèles locaux avec Ollama
+
+**Ops** Vercel, Azure Static Web Apps, GitHub Actions, EAS, pnpm, Git
+
+## Parcours
+
+En formation Concepteur Développeur d'Applications (titre RNCP niveau 6) chez ForEach, en alternance sur Jay.
+
+## Contact
+
+[jbrdevelopment.fr](https://jbrdevelopment.fr) · jb@jbrdevelopment.fr
