@@ -27,6 +27,9 @@ When a tool I rely on has a bug or a missing feature, I'd rather fix it upstream
   - [![#59](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/59?label=%2359)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/59) Logitech: one entry per device across receiver and cable
   - [![#202](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/202?label=%23202)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/202) Taskbar widget: move UI Automation off the UI thread, fixing an Explorer freeze
 
+- **[cleanyourtv](https://github.com/Gathin23/cleanyourtv)**: debloat Android and Google TV over Wi-Fi
+  - [![#420](https://img.shields.io/github/pulls/detail/state/Gathin23/cleanyourtv/420?label=%23420)](https://github.com/Gathin23/cleanyourtv/pull/420) Button codes for the TCL G07 Bluetooth remote
+
 ## JBR Development
 
 [jbrdevelopment.fr](https://jbrdevelopment.fr)
@@ -86,6 +89,9 @@ Quand un outil que j'utilise a un bug ou un manque, je préfère le corriger à 
   - [![#58](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/58?label=%2358)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/58) prise en charge du casque Fractal Design Scape
   - [![#59](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/59?label=%2359)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/59) Logitech : une seule entrée par appareil, en sans-fil comme en filaire
   - [![#202](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/202?label=%23202)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/202) widget de la barre des tâches : UI Automation sorti du thread UI, ce qui corrige un gel d'Explorer
+
+- **[cleanyourtv](https://github.com/Gathin23/cleanyourtv)** : alléger une TV Android ou Google TV par le Wi-Fi
+  - [![#420](https://img.shields.io/github/pulls/detail/state/Gathin23/cleanyourtv/420?label=%23420)](https://github.com/Gathin23/cleanyourtv/pull/420) codes des boutons de la télécommande Bluetooth TCL G07
 
 ### JBR Development
 
