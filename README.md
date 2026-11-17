@@ -26,8 +26,6 @@ When a tool I rely on has a bug or a missing feature, I'd rather fix it upstream
   - [![#58](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/58?label=%2358)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/58) Fractal Design Scape headset support
   - [![#59](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/59?label=%2359)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/59) Logitech: one entry per device across receiver and cable
   - [![#202](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/202?label=%23202)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/202) Taskbar widget: move UI Automation off the UI thread, fixing an Explorer freeze
-- **[Vexa](https://github.com/Vexa-ai/vexa)**: open-source meeting transcription API
-  - [![#1381](https://img.shields.io/github/pulls/detail/state/Vexa-ai/vexa/1381?label=%231381)](https://github.com/Vexa-ai/vexa/pull/1381) Let a bot broadcast a still card instead of an empty camera feed
 
 ## JBR Development
 
@@ -88,8 +86,6 @@ Quand un outil que j'utilise a un bug ou un manque, je préfère le corriger à 
   - [![#58](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/58?label=%2358)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/58) prise en charge du casque Fractal Design Scape
   - [![#59](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/59?label=%2359)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/59) Logitech : une seule entrée par appareil, en sans-fil comme en filaire
   - [![#202](https://img.shields.io/github/pulls/detail/state/krisgfx9/Wireless-Device-Battery-Monitor/202?label=%23202)](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor/pull/202) widget de la barre des tâches : UI Automation sorti du thread UI, ce qui corrige un gel d'Explorer
-- **[Vexa](https://github.com/Vexa-ai/vexa)** : API open source de transcription de réunions
-  - [![#1381](https://img.shields.io/github/pulls/detail/state/Vexa-ai/vexa/1381?label=%231381)](https://github.com/Vexa-ai/vexa/pull/1381) un bot peut diffuser une image fixe au lieu d'une caméra vide
 
 ### JBR Development
 
